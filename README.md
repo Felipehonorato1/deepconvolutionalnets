@@ -4,4 +4,4 @@ Repo to keep my exercises atending to convolutional neural networks course at co
 
 Course taught by Andrew Ng. 
 
-[Diploma.pdf](http://Felipehonorato1.github.io/deepconvolutionalnets/master/diploma.pdf)
+[Diploma.pdf](https://github.com/Felipehonorato1/deepconvolutionalnets/blob/master/diploma.pdf)
